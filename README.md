@@ -1,2 +1,3 @@
-# Statistical_Methods_2024W
-Using RStudio and the gutenbergr package to analyze a literary text from Project Gutenberg
+# Statistical Methods for Language Processing
+This repository contains the Final Project for the course "Statistical Methods for Language processing", part of the Multilingual Technologies Master's program at the FH Campus Vienna.
+It applies statistical and computational methods to the analysis of a literary text from the Project Gutenberg library. Using RStudio and tools like gutenbergr and tidytext, the project explores basic techniques in Natural Language Processing (NLP), including bigram analysis, chi-square testing, entropy measurements, and text xlassification with a Naive Bayes classifier. With that linguisitc patterns are uncovered.
